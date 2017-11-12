@@ -41,6 +41,15 @@ float: left;
 font-size: 30px
 }
 
+#header a {
+  text-decoration: none;
+  color:#868e96
+}
+
+#header a:hover {
+  text-decoration: underline;
+}
+
 div.jumbotron {
   border-radius: 5px
   background-color: #e9ecef;
